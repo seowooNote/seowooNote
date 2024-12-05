@@ -2,7 +2,7 @@
 <div align=center>
     <a style="text-align: center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BDBDC8&width=435&lines=I+want+to+be+a+flexible+developer!!!" alt="Typing SVG" /></a>
 </div>
-<div style="text-align: center">
+<div align=center>
     <h1>🚀 Skills</h1>
     <blockquote>Hard Skills 는 직무에 필요한 구체적 기술, Soft Skills 는 대인관계 기술을 뜻합니다.</blockquote>
     <div style="display: flex; flex-direction: column; justify-content: space-between;">
@@ -18,11 +18,13 @@
                 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
                 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
             </div>
+            <br/>
             <div>
                 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
                 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
                 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
             </div>
+            <br/>
             <div>
                 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
                 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
