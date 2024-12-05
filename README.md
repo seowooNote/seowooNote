@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=BDBDC8&text=Do%20Gyeong%20Rok&fontColor=ffffff" />
 <div style="text-align: center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BDBDC8&width=435&lines=I+want+to+be+a+flexible+developer!!!" alt="Typing SVG" /></a>
+    <a style="text-align: center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BDBDC8&width=435&lines=I+want+to+be+a+flexible+developer!!!" alt="Typing SVG" /></a>
 </div>
 <div style="text-align: center">
     <h1>🚀 Skills</h1>
